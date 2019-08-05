@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Digipunk",
+"productVersion": "1.0",
+"dataUrl": "Digipunk.data.unityweb",
+"asmCodeUrl": "Digipunk.asm.code.unityweb",
+"asmMemoryUrl": "Digipunk.asm.memory.unityweb",
+"asmFrameworkUrl": "Digipunk.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.0f2"
+}
