@@ -9,7 +9,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "richard ahn",
-  tagline: "software dreveloper and blogger",
+  tagline: "software developer and blogger",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
