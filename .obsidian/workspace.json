@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "6e5ce8b352caa261",
+    "type": "split",
+    "children": [
+      {
+        "id": "451d73046b010362",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "632492842df7e046",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/authentication-and-authorization/3. openid, oauth, and sso.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff1c5c976f797e40",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a27cfe814c99a5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "360e02e7f9b117d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63628ebe785b0933",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c139e9abc4cd8dd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6c746f7889c051b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "3be3dd9b35b22a15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "605997e580fc5df8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/authentication-and-authorization/3. openid, oauth, and sso.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ccf8b8b498970da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/authentication-and-authorization/3. openid, oauth, and sso.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "310986d63c28e689",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3b816f21e2a3e407",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/authentication-and-authorization/3. openid, oauth, and sso.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "632492842df7e046",
+  "lastOpenFiles": [
+    "build/blog/rss.xml",
+    "build/blog/atom.xml",
+    "build/sitemap.xml",
+    "build/index.html",
+    "build/blog.html",
+    "build/about.html",
+    "build/docs/category/authentication-and-authorization-in-net-core.html",
+    "build/docs/authentication-and-authorization/authentication vs authorization.html",
+    "build/docs/authentication-and-authorization/openid, oauth, and sso.html",
+    "build/docs/authentication-and-authorization/implementation.html",
+    "build/docs/intro.html",
+    "build/img/logo.png",
+    "docs/authentication-and-authorization/2. implementation.md",
+    "docs/authentication-and-authorization/1. authentication vs authorization.md",
+    "docs/authentication-and-authorization/3. openid, oauth, and sso.md",
+    "docs/intro.md",
+    "Untitled.canvas",
+    "blog/2023-12-21-first-blog-post.md"
+  ]
+}
