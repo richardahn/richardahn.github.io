@@ -16,21 +16,23 @@ function HomepageHeader() {
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div
-          style={{ display: "flex", justifyContent: "center", gap: "0.25rem" }}
+          style={{ display: "flex", justifyContent: "center", gap: "0.5rem" }}
         >
           <a
             class="button button--primary"
             href="https://github.com/richardahn"
             target="_blank"
+            style={{ padding: "0.4rem" }}
           >
-            <i class="fa-brands fa-github"></i>
+            <i class="fa-brands fa-github fa-2xl"></i>
           </a>
           <a
             class="button button--primary"
             href="https://www.linkedin.com/in/richardahn/"
             target="_blank"
+            style={{ padding: "0.4rem" }}
           >
-            <i class="fab fa-linkedin-in"></i>
+            <i class="fab fa-linkedin-in fa-2xl"></i>
           </a>
         </div>
       </div>
