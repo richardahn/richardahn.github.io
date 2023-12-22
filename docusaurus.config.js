@@ -12,6 +12,10 @@ const config = {
   tagline: "software developer and blogger",
   favicon: "img/favicon.ico",
 
+  stylesheets: [
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css",
+  ],
+
   // Set the production url of your site here
   url: "https://richardahn.github.io/",
   // Set the /<baseUrl>/ pathname under which your site is served
@@ -65,16 +69,7 @@ const config = {
           alt: "home",
           src: "img/logo.png",
         },
-        items: [
-          {
-            type: "docSidebar",
-            sidebarId: "tutorialSidebar",
-            position: "left",
-            label: "notebook",
-          },
-          { to: "/blog", label: "blog", position: "left" },
-          { to: "/about", label: "about", position: "right" },
-        ],
+        items: [{ to: "/about", label: "about", position: "right" }],
       },
       footer: {
         style: "light",
