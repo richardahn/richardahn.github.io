@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcode_blog=self.webpackChunkcode_blog||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"first blog post","permalink":"/blog/first-blog-post","unlisted":false}]}')}}]);
